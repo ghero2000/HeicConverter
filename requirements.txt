@@ -1,0 +1,12 @@
+os
+sys
+PIL
+pillow-heif
+datetime
+piexif
+fnmatch
+
+Pillow==9.3.0
+pillow-heif==0.3.0
+piexif==1.2.1
+fnmatch==2.10
